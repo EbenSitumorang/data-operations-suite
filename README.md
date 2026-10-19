@@ -1,5 +1,8 @@
 # Data Operations Suite
 ![Dashboard Data Operations Suite](screenshots/dashboard.png)
+### Laporan Bulanan
+
+![Laporan Bulanan Data Operations Suite](screenshots/monthly-report.png)
 Aplikasi web untuk mengelola data operasional secara terstruktur, dilengkapi autentikasi, pembagian hak akses, pencarian, filter, ekspor CSV, dan laporan bulanan.
 
 Proyek ini dikembangkan sebagai portofolio untuk menunjukkan penerapan pengembangan aplikasi web dan pengelolaan data operasional menggunakan Laravel.
