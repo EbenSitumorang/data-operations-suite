@@ -3,6 +3,11 @@
 ### Laporan Bulanan
 
 ![Laporan Bulanan Data Operations Suite](screenshots/monthly-report.png)
+### Data Operasional
+
+Berikut tampilan halaman pengelolaan data operasional untuk pengguna Operator.
+
+![Daftar Data Operasional](screenshots/service-records.png)
 Aplikasi web untuk mengelola data operasional secara terstruktur, dilengkapi autentikasi, pembagian hak akses, pencarian, filter, ekspor CSV, dan laporan bulanan.
 
 Proyek ini dikembangkan sebagai portofolio untuk menunjukkan penerapan pengembangan aplikasi web dan pengelolaan data operasional menggunakan Laravel.
