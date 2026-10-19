@@ -22,3 +22,6 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+# Backup lokal, tidak untuk repositori publik
+/backup-sebelum-login/
+/app/Http/Controllers/ServiceRecordController.backup.php
